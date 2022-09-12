@@ -1,6 +1,7 @@
 # Computer Systems Design Theory
 
 Subject: CSDT
+
 Task 1
   1. Create a github repository with name "csdt2223petrukav19".
   2. Add access for the author.
